@@ -1,4 +1,4 @@
-package com.codeprac;
+package com.codeprac.pattern;
 
 public class Pattern2 {
     public static void main(String[] args) {
